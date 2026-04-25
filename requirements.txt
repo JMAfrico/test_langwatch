@@ -1,0 +1,2 @@
+pytest==9.0.3
+langwatch-scenario==0.7.9
